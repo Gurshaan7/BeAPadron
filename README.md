@@ -1,14 +1,6 @@
-# Sample Hardhat Project
+# dapp
+This is an dapp deployed on Goerli testnet ,it accept GoerliETH(fake ethers) through metamask. 
+In order to became a padron(a person or group that gives money or support to a person, an activity, or an organization) you simply have to enter your name and message you want to tell the creater(in this case me) and press pay button,It will automatically send Goerli(fake ethers) to the person who have deployed the contract(in this case me). 
+You can check the site here(you can give me the ethers too,don't worry its fake ethers😊): https://beapatron.netlify.app/
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
 # BeAPadron
